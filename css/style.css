@@ -269,6 +269,10 @@ iframe {
 		column-count: 3;
 	}
 
+	#featured_shoes {
+		column-span: 1;
+	}
+
 /********** Details **********/
 
 #details {
