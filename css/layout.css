@@ -31,13 +31,6 @@
   column-gap: 2%
 }
 
-.col-3 {
-  /* display: inline; */
-  float: right;
-  width: 32%
-  margin: 5px;
-}
-
 .col-1 {
   /* display: inline; */
   float: left;
@@ -48,4 +41,11 @@
   /* display: inline; */
   float: center
   width: 32.666%
+}
+
+.col-3 {
+  /* display: inline; */
+  float: right;
+  width: 32%
+  margin: 5px;
 }
