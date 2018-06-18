@@ -49,3 +49,7 @@
   width: 32%
   margin: 5px;
 }
+
+.columns {
+  column-count: 3;
+}
