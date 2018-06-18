@@ -265,14 +265,6 @@ iframe {
 		text-decoration: underline;
 	}
 
-	.columns_one {
-		column-count: 3;
-	}
-
-	#featured_shoes {
-		column-span: 2;
-	}
-
 /********** Details **********/
 
 #details {
