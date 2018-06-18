@@ -30,3 +30,10 @@
   width: 65%;
   column-gap: 2%
 }
+
+.col-3 {
+  /* display: inline; */
+  float: right;
+  width: 32%
+  margin: 5px;
+}
