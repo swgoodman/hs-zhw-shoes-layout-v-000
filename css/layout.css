@@ -24,4 +24,9 @@
 
 /* Posititoning Classes */
 
-
+.col-large {
+  /* display: inline; */
+  float: left;
+  width: 65%;
+  column-gap: 2%
+}
